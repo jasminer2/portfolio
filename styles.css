@@ -2,3 +2,7 @@ body {
     background-image: url("waterfall2.jpg");
 
 ]
+
+    head {
+        p.solid {border-style: solid;}
+    }
