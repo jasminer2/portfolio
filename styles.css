@@ -24,12 +24,7 @@ body {
             text-decoration: underline;
         }
 
-        main {
-            background-color: #b3e5fc; /* Lighter blue main content */
-            padding: 20px;
-            border-radius: 8px;
-        }
-
+        
         footer {
             background-color: #004080; /* Darker blue footer */
             color: white;
