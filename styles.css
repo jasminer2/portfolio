@@ -18,7 +18,8 @@ header {
 }
 
 nav {
-    margin: 20px 0;
+    margin: 100px 0;           
+    text-align: center; 
 }
 
 nav a {
@@ -30,7 +31,8 @@ nav a {
     border-style: solid;
     border-color: white;
     background-color: #FF99FF;
-        }
+    margin: 10px; 
+}
 
  nav a:hover {
     text-decoration: underline;
