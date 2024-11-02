@@ -13,7 +13,7 @@ header {
     border-color: white;
     background-color: #FFCCFF;
     color: white;
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
 
@@ -43,3 +43,14 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+@media (max-width: 600px) {
+    header, footer {
+        padding: 15px;
+    }
+
+    nav a {
+        padding: 10px;
+    }
+}
+
