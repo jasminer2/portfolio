@@ -14,7 +14,7 @@ header {
     background-color: #FFCCFF;
     color: white;
     padding: 10px;
-    text-align: right;
+    text-align: center;
 }
 
 nav {
@@ -26,7 +26,10 @@ nav a {
     text-decoration: none;
     padding: 20px;
     font-size: 40px;
-    text-align: center;
+    text-align: right;
+    border-style: solid;
+    border-color: white;
+    background-color: #FF99FF;
         }
 
  nav a:hover {
