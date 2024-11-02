@@ -13,7 +13,7 @@ header {
     border-color: white;
     background-color: #FF99FF;
     color: white;
-    padding: 10px;
+    padding: 30px;
     text-align: center;
 }
 
@@ -26,7 +26,7 @@ nav a {
     color: #ffffff; /* Link color */
     text-decoration: none;
     padding: 20px;
-    font-size: 70px;
+    font-size: 50px;
     text-align: center;
     border-style: solid;
     border-color: white;
