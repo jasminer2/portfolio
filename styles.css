@@ -3,7 +3,8 @@ body {
     background-image: url(daisy.jpg);
     background-repeat: no-repeat;
     background-size: auto;
-    width
+    width: 100%;
+    height: 100px;
 }
 
 header {
