@@ -14,7 +14,6 @@ header {
     background-color: #FFCCFF;
     color: white;
     padding: 20px;
-    font-size: 40px;
     text-align: center;
 }
 
@@ -26,6 +25,7 @@ nav a {
     color: #ffffff; /* Link color */
     text-decoration: none;
     padding: 20px;
+    font-size: 40px;
     text-align: center;
         }
 
