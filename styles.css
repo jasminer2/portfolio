@@ -9,7 +9,8 @@ body {
 }
 
 header {
-    border: 2px solid white;
+    border-style: solid;
+    border-color: white;
     background-color: #FFCCFF;
     color: white;
     padding: 20px;
