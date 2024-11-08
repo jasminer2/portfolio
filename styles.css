@@ -39,13 +39,6 @@ nav a {
     text-decoration: underline;
 }
 
-p {
-    color: #ffffff;
-    text-decoration: none;
-    font-size: 30px;
-    text-align: center;
-}
-
         
 footer {
     background-color: #FFe6FF;
@@ -67,3 +60,9 @@ footer {
     }
 }
 
+p {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+}
